@@ -2,6 +2,6 @@
 
 int main()
 {
-  printf("holle git\n");
+  printf("Holle git\n");
   return 0;
 }
